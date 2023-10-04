@@ -1,4 +1,4 @@
-RLBOX_ROOT=../rlbox_wasm2c_sandbox
+RLBOX_ROOT=../../../../../rlbox_wasm2c_sandbox
 
 #RLBOX headers
 RLBOX_INCLUDE=$(RLBOX_ROOT)/build/_deps/rlbox-src/code/include
